@@ -2,8 +2,8 @@
 
 Undergraduate studying **Financial Mathematics** with a minor in **Economics** at Baruch College (CUNY). I enjoy building clean, well-tested code at the intersection of quantitative methods, probability, data analysis, and systems programming.
 
-- **Quantitative & Academic Focus:** Probability theory, stochastic and statistical modeling, economic intuition, and quantitative research workflows.
-- **Languages & Tools:** C++ (`g++`), Python, Git, Linux, VS Code, Obsidian.
+- **Quantitative & Academic Focus:** Upcoming coursework and self-study in probability, financial math, and quantitative methods, paired with hands-on C++ and Python practice
+- **Languages & Tools:** C++ (`g++`), Python, Git, VS Code, Obsidian.
 - **Beyond Code:** Organizing data science and quantitative study initiatives, mentoring and tutoring math and writing, and playing soccer.
 
 ---
