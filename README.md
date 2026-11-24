@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Andre Reque
 
-<!--
-**andrerequeyaipen/andrerequeyaipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate studying **Financial Mathematics** with a minor in **Economics** at Baruch College (CUNY). I enjoy building clean, well-tested code at the intersection of quantitative methods, probability, data analysis, and systems programming.
 
-Here are some ideas to get you started:
+- **Quantitative & Academic Focus:** Probability theory, stochastic and statistical modeling, economic intuition, and quantitative research workflows.
+- **Languages & Tools:** C++ (`g++`), Python, Git, Linux, VS Code, Obsidian.
+- **Beyond Code:** Organizing data science and quantitative study initiatives, mentoring and tutoring math and writing, and playing soccer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Selected Projects
+
+- **`CPP-Matrix33-Engine`** — A C++ 3x3 matrix engine implementing core linear algebra operations, memory management / Rule of Five patterns, and operator overloading.
+- **`Automotive-Equity-Return-Volatility-Analysis`** — A Python analysis exploring return distributions, volatility dynamics, and risk metrics across automotive equities.
+- **`CPP-Learning`** — Hands-on C++ exercises and notes covering language mechanics, data structures, and problem-solving fundamentals.
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/andrerequeyaipen](https://www.linkedin.com/in/andrerequeyaipen/)
+- **Email:** [andrerequeyaipen@gmail.com](mailto:andrerequeyaipen@gmail.com)
